@@ -38,7 +38,7 @@ Desta vez todos os arquivos .md com o enunciado estão na pasta raiz do reposit�
 - [ ] item 3 - Pseudoclasses
 
 No final do exercício, o projeto deve se parecer com isso:
-![](./assets/cssii.mp4)
+![ ](./assets/cssii.mp4)
 
 ### Informações úteis sobre o assunto:
 
