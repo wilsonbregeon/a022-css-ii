@@ -37,8 +37,9 @@ Desta vez todos os arquivos .md com o enunciado estão na pasta raiz do reposit�
 - [ ] item 2 - Posicionamento
 - [ ] item 3 - Pseudoclasses
 
-No final do exercício, o projeto deve se parecer com isso:
-![ ](./assets/cssii.mp4)
+Na pasta `assets` há um vídeo que ilustra como deve estar o projeto no final.
+
+
 
 ### Informações úteis sobre o assunto:
 
