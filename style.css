@@ -1,20 +1,40 @@
-header{
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+  header{
     border-bottom: 1px solid black;
+    text-align: center;
   }
-  
+
   main{
     width: 800px;
+    height: 1000px;
+    margin: 0 auto;
   }
+
+  section{
+    text-align: center;
+    border: 1px solid black;
+  }
+
   
   aside{
     width: 180px;
     border: 1px solid black;
+    position: fixed;
+    right: 0;
+    text-align: center;
   }
   
   footer{
     background-color: black;
     color: white;
     width: 100%;
+    position: fixed;
+    bottom: 0;
   }
   
   button{
@@ -22,3 +42,15 @@ header{
     color: white;
     font-family: serif;
   }
+
+  
+  button:active{
+    background-color: white;
+    color: black;
+  }
+
+ aside:active{
+    background-color: black;
+    color: white;
+  }
+
